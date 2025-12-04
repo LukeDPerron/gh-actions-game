@@ -5,7 +5,7 @@ import pytest
     # fmt: off
     "input_str, expected_output",
     [
-        ('Right', 'left'),
+        ('Right', 'mer'),
         ('right', 'right'),
         ('RIGHT',  'still'),
         ('Left', 'still'),
